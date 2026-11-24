@@ -1,0 +1,12 @@
+# Papers and books relevant to the biological control project
+
+**Source distinctions:** Items 1–2 motivate the biological application; 3 is a mathematical transport extension; 4–5 are existing mathematical prior art. These publications do not validate the parameters used in this repository.
+
+1. **T. Petreus et al. (2021)**. *Tumour-on-chip microfluidic platform for assessment of drug pharmacokinetics and treatment response*. Communications Biology 4, 1001. DOI [10.1038/s42003-021-02526-y](https://doi.org/10.1038/s42003-021-02526-y). The source of the transcribed SN38 reservoir settings and approximate reported experimental endpoint.
+2. **S. J. Cutty et al. (2025)**. *Pro-survival roles for p21(Cip1/Waf1) in non-small cell lung cancer*. British Journal of Cancer. DOI [10.1038/s41416-024-02928-9](https://doi.org/10.1038/s41416-024-02928-9). Biological motivation for studying quiescence/protection; a different cancer setting from the SW620 dosing paper.
+3. **M. Brennan, E. F. Yeo, P. Pearce and M. P. Dalwadi (2026)**. *Effective permeability conditions for diffusive transport through impermeable membranes with gaps*. Proceedings of the Royal Society A. DOI [10.1098/rspa.2025.0703](https://doi.org/10.1098/rspa.2025.0703). Derivation of effective interface conditions in a membrane-gap geometry, motivated by bacterial membranes.
+4. **H. Ledzewicz and U. Schättler (2002)**. *Optimal bang-bang controls for a two-compartment model in cancer chemotherapy*. Journal of Optimization Theory and Applications. [Publication details](https://ideas.repec.org/a/spr/joptap/v114y2002i3d10.1023_a1016027113579.html). Established cancer-control structure and relevant prior art.
+5. **J. Morgan, B. Q. Tang and H.-M. Yin (2024 preprint)**. *Existence, Stability and Optimal Drug Dosage for a Reaction-Diffusion System Arising in a Cancer Treatment*. [arXiv:2408.02227](https://arxiv.org/abs/2408.02227). Established PDE boundary-control analysis.
+6. **D. Liberzon (2012)**. *Calculus of Variations and Optimal Control Theory: A Concise Introduction*. Princeton University Press. [Publisher](https://press.princeton.edu/books/ebook/9781400842643/calculus-of-variations-and-optimal-control-theory-pdf). Foundations for necessary conditions and control structure.
+
+No journal PDFs are redistributed here; follow the external links. Source-data transcription caveats are in [`data/SOURCES.md`](data/SOURCES.md).
